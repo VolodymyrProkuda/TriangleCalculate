@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TriangleCalculate</string>
+    <string name="b">b</string>
+    <string name="a">a</string>
+    <string name="sin_fi">sin(fi)</string>
+    <string name="cos_fi">cos(fi)</string>
+    <string name="c">c</string>
+    <string name="calculate">Calculate</string>
+    <string name="fi">fi</string>
+    <string name="trianglepicture">trianglePicture</string>
+</resources>
